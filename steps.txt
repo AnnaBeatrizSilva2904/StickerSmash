@@ -11,5 +11,4 @@ npm run reset-project
 n
 
 npx expo start --localhost --android
-
-teste
+npx expo start --web
